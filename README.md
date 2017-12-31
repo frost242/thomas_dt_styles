@@ -1,2 +1,4 @@
-# darktable_styles
-My own darktable styles
+#Thomas' darktable styles
+
+Some of my darktable styles (presets)
+
